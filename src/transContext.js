@@ -26,6 +26,7 @@ dispatch({
 
 })
     }
+
 return(<TransactionContext.Provider value={{
     transactions:state,
     addTransaction

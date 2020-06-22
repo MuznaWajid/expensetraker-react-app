@@ -68,6 +68,7 @@ return false;
               <li key={ind}>
                 <span>{transobj.desc}</span>
                 <span>{transobj.amount}</span>
+
               </li>
             );
           })}
